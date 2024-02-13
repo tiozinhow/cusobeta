@@ -1,0 +1,12 @@
+lucas|123|$2y$10$bajgfO/wTqkwQ.T.nHq0l.z2XNzzDpkrcWBq0plwO/0jRcaT./hJ2
+lucas|123|$2y$10$vCsKmlenDdfALe.YxdGutugBcnf.x0Ag2HS3Juc8gIGAcNKAUSyEK
+lucas|123|$2y$10$izuX.GD.RJ1GmSrlE9GaeOu0gxl3M8SwMdE3v.Wc.U33gOCsAhhUa
+caio|123|$2y$10$jkD49AMsWY2Y.zbIzmj5ae5rvEibLqM21/h7STLiIMFfHLrKO.QxO
+caio|10|$2y$10$qyQPcqjSvg9jRwqjDQc9Su2yd9pfTNIyOa0utkU1yBtFw33w49INS
+leo|00|$2y$10$NtPffdXLoNdbLPItt.yY1OolKNExPaDkmubWt6Sh43SEgC8ppSqN2
+pedro|12|$2y$10$JwXyYxwDTif/eXwrToQaDez3vABFxbLpsM5eAdvOD7xdi9Ryrja5u
+aluno|007|$2y$10$PlOfaevARL2dcIMS32qIMemAcFWpIzZTyPFAIWGxq4GblBjakOg2G
+sla|teste|$2y$10$UjGyFzlVR7XVN2V.xwhcIew904eGxxsUwdF1BU9x7mhgsX8FSTFoy
+
+Ycaro|8811|$2y$10$h4Q3D5QcEnNB3ayP1wtSyOhSVt.5AWNHV.UXPIQBjU1HoxPOqUb6a
+Ruan|321|$2y$10$93N66c6sGHkrI3T6M.ndVeXu.XwH8QAqr8QCk/FPsIVNUeq.4ZZ7u
